@@ -1,0 +1,11 @@
+{
+  "name": "threads-manager",
+  "version": "1.0.0",
+  "description": "The threads-manager module is designed to simplify the management of worker threads in a Node.js environment. It provides a structured way to create, execute, and handle worker threads that perform asynchronous tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
